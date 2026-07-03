@@ -60,3 +60,8 @@ The project evaluated multiple algorithms before finalizing a custom-weighted en
    ```bash
    git clone <your-github-repo-url>
    cd <your-repo-folder>
+
+## Live Demo Video 
+
+Here is the link below :
+https://www.loom.com/share/1bffa877f3584e31a4617108a17e2722
